@@ -38,8 +38,8 @@ const mediaList: MediaType[] = [
     preview: "https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg",
   },
   {
-    url: "https://ythls.armelin.one/channel/UCE2606prvXQc_noEqKxVJXA.m3u8",
-    title: "ABS-CBN News Channel",
+    url: "https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8",
+    title: "ANC HD",
     subTitle: "Watch ANC Online",
     preview:
       "https://i.imgur.com/odwRbRk.png",
