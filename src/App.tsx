@@ -32,6 +32,12 @@ const mediaList: MediaType[] = [
     preview: "https://upload.wikimedia.org/wikipedia/en/archive/2/2e/20231130051829%21TeleRadyo_Serbisyo_logo.svg",
   },
   {
+    url: "https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8",
+    title: "Cinemo",
+    subTitle: "Watch Cinemo Online",
+    preview: "https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg",
+  },
+  {
     url: "https://ythls.armelin.one/channel/UCE2606prvXQc_noEqKxVJXA.m3u8",
     title: "ABS-CBN News Channel",
     subTitle: "Watch ANC Online",
