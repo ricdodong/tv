@@ -14,24 +14,24 @@ export type MediaType = {
 
 const mediaList: MediaType[] = [
   {
-    url: "https://www.youtube.com/watch?v=SkVqJ1SGeL0",
-    title: "YouTube Video Sample",
-    subTitle: "Caminandes 3: Llamigos",
+    url: "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp_16.m3u8",
+    title: "TV5 HD",
+    subTitle: "Watch TV5 Online",
     preview: true,
   },
   {
-    url: "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-    title: "HLS Stream Sample",
-    subTitle: "Tears of Steel",
+    url: "https://ythls.armelin.one/channel/UCE2606prvXQc_noEqKxVJXA.m3u8",
+    title: "ABS-CBN News Channel",
+    subTitle: "Watch ANC Online",
     preview:
-      "https://mango.blender.org/wp-content/gallery/4k-renders/06_barley.jpg",
+      "https://i.imgur.com/odwRbRk.png",
   },
   {
-    title: "Dash Stream Sample",
-    subTitle: "Elephants Dream",
-    url: "https://rdmedia.bbc.co.uk/elephants_dream/1/client_manifest-all.mpd",
+    title: "GMA 7",
+    subTitle: "Watch GMA TV Channel 7 Online",
+    url: "https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8",
     preview:
-      "https://orange.blender.org/wp-content/themes/orange/images/media/gallery/s1_proog.jpg",
+      "https://i.imgur.com/uAqFMLy.png",
   },
 ];
 
