@@ -26,6 +26,12 @@ const mediaList: MediaType[] = [
     preview: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/OneSportsPlus_logo.svg/200px-OneSportsPlus_logo.svg.png",
   },
   {
+    url: "https://teleradyo-abscbn-ono.amagi.tv/playlist360_p.m3u8",
+    title: "TeleRadyo 630",
+    subTitle: "Watch TeleRadyo Online",
+    preview: "https://upload.wikimedia.org/wikipedia/en/archive/2/2e/20231130051829%21TeleRadyo_Serbisyo_logo.svg",
+  },
+  {
     url: "https://ythls.armelin.one/channel/UCE2606prvXQc_noEqKxVJXA.m3u8",
     title: "ABS-CBN News Channel",
     subTitle: "Watch ANC Online",
@@ -59,7 +65,7 @@ function App() {
       label: "About",
       faIcon: faGithub,
       onPress: () => {
-        window.location.href = "https://github.com/lewhunt/react-tv-player";
+        window.location.href = "https://ricdodong.github.io/tv";
       },
     },
   ];
