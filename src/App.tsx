@@ -17,7 +17,13 @@ const mediaList: MediaType[] = [
     url: "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp_16.m3u8",
     title: "TV5 HD",
     subTitle: "Watch TV5 Online",
-    preview: true,
+    preview: "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/TV5_HD_Logo_2023.svg/2560px-TV5_HD_Logo_2023.svg.png",
+  },
+    {
+    url: "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp_3.m3u8",
+    title: "OneSports+",
+    subTitle: "Watch OneSports+ Online",
+    preview: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/OneSportsPlus_logo.svg/200px-OneSportsPlus_logo.svg.png",
   },
   {
     url: "https://ythls.armelin.one/channel/UCE2606prvXQc_noEqKxVJXA.m3u8",
