@@ -45,6 +45,13 @@ const mediaList: MediaType[] = [
       "https://i.imgur.com/odwRbRk.png",
   },
   {
+    title: "Nat GEO Wild",
+    subTitle: "Watch Nat Geo Wild Online",
+    url: "https://www.youtube.com/watch?v=PLR6KdmyTho",
+    preview:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0xOxWV6XocICAaQtAT4ssCUAjynmil6dTfORkVCel_Q&s",
+  },
+  {
     title: "GMA 7",
     subTitle: "Watch GMA TV Channel 7 Online",
     url: "https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8",
