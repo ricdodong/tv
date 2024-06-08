@@ -79,8 +79,8 @@ export const TVPlayer: React.FC<TVPlayerProps> = (props) => {
   useEffect(() => actions.setTitle(props.title), [props.title]);
   useEffect(() => actions.setSubTitle(props.subTitle), [props.subTitle]);
   useEffect(() => {
-    actions.setFullscreen(!props.disableFullscreen);
-  }, [props.disableFullscreen]);
+    actions.setFullscreen(!props.enableFullscreen);
+  }, [props.enableFullscreen]);
   useEffect(() => actions.setLoop(props.loop), [props.loop]);
   useEffect(() => actions.setMuted(props.muted), [props.muted]);
   useEffect(() => actions.setMediaCount(props.mediaCount), [props.mediaCount]);
