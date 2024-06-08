@@ -164,7 +164,7 @@ export const TVPlayer: React.FC<TVPlayerProps> = (props) => {
         ref={playerRef}
         url={props.url}
         width={fullscreen ? "100%" : props.width || "100%"}
-        height={fullscreen ? "100%" : props.height || "350px"}
+        height={fullscreen ? "100%" : props.height || "300px"}
         light={!playing && light}
         controls={props.controls}
         playIcon={props.playIcon || <></>}
