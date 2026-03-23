@@ -14,10 +14,10 @@ export type MediaType = {
 
 const mediaList: MediaType[] = [
   {
-    url: "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp_16.m3u8",
-    title: "TV5 HD",
-    subTitle: "Watch TV5 Online",
-    preview: "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/TV5_HD_Logo_2023.svg/2560px-TV5_HD_Logo_2023.svg.png",
+    url: "https://www.youtube.com/watch?v=bEQKIxM_D0w",
+    title: "Kapamilya Online Live",
+    subTitle: "Watch Kapamilya Online Live",
+    preview: "https://upload.wikimedia.org/wikipedia/en/7/7d/Kapamilya_Online_Live_Logo_2020.svg",
   },
     {
     url: "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp_3.m3u8",
